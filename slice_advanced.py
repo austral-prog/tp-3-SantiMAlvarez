@@ -1,14 +1,8 @@
 def slice_advanced():
     # Código a implementar utilizando input.
 
-    texto = "Awesome"
-    texto = texto.lower.()
-    
-    medio = int(len(texto)/2)
-
-    print(texto [0:3])
-    print(texto [medio-1:medio+2])
-    print(texto([0:4] + texto[-3:])
+    txt = 'Python, the programming language()'
+    print (txt [5: :2])
 
     
 # Para verificar este ejercicio ejecutar el comando
