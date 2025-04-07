@@ -1,13 +1,13 @@
 def slice_advanced():
     # Código a implementar utilizando input.
 
-texto = "awesome"
+    texto = "awesome"
 
-medio = int(len(texto)/2)
+    medio = int(len(texto)/2)
 
-print(texto [0:3])
-print(texto [medio-1:medio+2])
-print(texto)
+    print(texto [0:3])
+    print(texto [medio-1:medio+2])
+    print(texto)
 
     
 # Para verificar este ejercicio ejecutar el comando
