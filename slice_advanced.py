@@ -1,7 +1,7 @@
 def slice_advanced():
     # Código a implementar utilizando input.
 
-    txt = 'Python, the programming language()'
+    txt = 'Hello, World!()'
     print (txt [5: :2])
 
     
