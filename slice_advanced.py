@@ -1,7 +1,7 @@
 def slice_advanced():
     # Código a implementar utilizando input.
 
-    txt = 'Hello, World!()'
+    txt = "Hello, World!()"
     print (txt [4: :2])
 
     tex = "12345678910"
